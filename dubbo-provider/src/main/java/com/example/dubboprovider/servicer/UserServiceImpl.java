@@ -1,10 +1,8 @@
 package com.example.dubboprovider.servicer;
 
-import org.springframework.stereotype.Component;
-import org.springframework.stereotype.Service;
+import com.alibaba.dubbo.config.annotation.Service;
 
-@Component
-@Service
+@Service(version = "1.0.0" ,group = "test",interfaceClass = UserService.class)
 public class UserServiceImpl implements UserService {
 
     @Override
