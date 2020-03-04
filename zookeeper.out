@@ -1,0 +1,46 @@
+2020-03-03 11:22:04,665 [myid:] - INFO  [main:QuorumPeerConfig@136] - Reading configuration from: /usr/local/Cellar/zookeeper-3.4.14/bin/../conf/zoo.cfg
+2020-03-03 11:22:04,668 [myid:] - INFO  [main:DatadirCleanupManager@78] - autopurge.snapRetainCount set to 3
+2020-03-03 11:22:04,668 [myid:] - INFO  [main:DatadirCleanupManager@79] - autopurge.purgeInterval set to 0
+2020-03-03 11:22:04,668 [myid:] - INFO  [main:DatadirCleanupManager@101] - Purge task is not scheduled.
+2020-03-03 11:22:04,668 [myid:] - WARN  [main:QuorumPeerMain@116] - Either no config or no quorum defined in config, running  in standalone mode
+2020-03-03 11:22:04,676 [myid:] - INFO  [main:QuorumPeerConfig@136] - Reading configuration from: /usr/local/Cellar/zookeeper-3.4.14/bin/../conf/zoo.cfg
+2020-03-03 11:22:04,676 [myid:] - INFO  [main:ZooKeeperServerMain@98] - Starting server
+2020-03-03 11:22:34,685 [myid:] - INFO  [main:Environment@100] - Server environment:zookeeper.version=3.4.14-4c25d480e66aadd371de8bd2fd8da255ac140bcf, built on 03/06/2019 16:18 GMT
+2020-03-03 11:22:34,685 [myid:] - INFO  [main:Environment@100] - Server environment:host.name=192.168.0.35
+2020-03-03 11:22:34,685 [myid:] - INFO  [main:Environment@100] - Server environment:java.version=1.8.0_221
+2020-03-03 11:22:34,685 [myid:] - INFO  [main:Environment@100] - Server environment:java.vendor=Oracle Corporation
+2020-03-03 11:22:34,685 [myid:] - INFO  [main:Environment@100] - Server environment:java.home=/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre
+2020-03-03 11:22:34,685 [myid:] - INFO  [main:Environment@100] - Server environment:java.class.path=/usr/local/Cellar/zookeeper-3.4.14/bin/../zookeeper-server/target/classes:/usr/local/Cellar/zookeeper-3.4.14/bin/../build/classes:/usr/local/Cellar/zookeeper-3.4.14/bin/../zookeeper-server/target/lib/*.jar:/usr/local/Cellar/zookeeper-3.4.14/bin/../build/lib/*.jar:/usr/local/Cellar/zookeeper-3.4.14/bin/../lib/slf4j-log4j12-1.7.25.jar:/usr/local/Cellar/zookeeper-3.4.14/bin/../lib/slf4j-api-1.7.25.jar:/usr/local/Cellar/zookeeper-3.4.14/bin/../lib/netty-3.10.6.Final.jar:/usr/local/Cellar/zookeeper-3.4.14/bin/../lib/log4j-1.2.17.jar:/usr/local/Cellar/zookeeper-3.4.14/bin/../lib/jline-0.9.94.jar:/usr/local/Cellar/zookeeper-3.4.14/bin/../lib/audience-annotations-0.5.0.jar:/usr/local/Cellar/zookeeper-3.4.14/bin/../zookeeper-3.4.14.jar:/usr/local/Cellar/zookeeper-3.4.14/bin/../zookeeper-server/src/main/resources/lib/*.jar:/usr/local/Cellar/zookeeper-3.4.14/bin/../conf:
+2020-03-03 11:22:34,685 [myid:] - INFO  [main:Environment@100] - Server environment:java.library.path=/Users/zrb/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.
+2020-03-03 11:22:34,685 [myid:] - INFO  [main:Environment@100] - Server environment:java.io.tmpdir=/var/folders/b6/m7cvdw6s0rbfs3qn0f3hfb7r0000gn/T/
+2020-03-03 11:22:34,686 [myid:] - INFO  [main:Environment@100] - Server environment:java.compiler=<NA>
+2020-03-03 11:22:34,686 [myid:] - INFO  [main:Environment@100] - Server environment:os.name=Mac OS X
+2020-03-03 11:22:34,686 [myid:] - INFO  [main:Environment@100] - Server environment:os.arch=x86_64
+2020-03-03 11:22:34,687 [myid:] - INFO  [main:Environment@100] - Server environment:os.version=10.14.5
+2020-03-03 11:22:34,687 [myid:] - INFO  [main:Environment@100] - Server environment:user.name=zrb
+2020-03-03 11:22:34,687 [myid:] - INFO  [main:Environment@100] - Server environment:user.home=/Users/zrb
+2020-03-03 11:22:34,687 [myid:] - INFO  [main:Environment@100] - Server environment:user.dir=/Users/zrb/IdeaProjects/spring-dubbo
+2020-03-03 11:22:34,696 [myid:] - INFO  [main:ZooKeeperServer@836] - tickTime set to 2000
+2020-03-03 11:22:34,697 [myid:] - INFO  [main:ZooKeeperServer@845] - minSessionTimeout set to -1
+2020-03-03 11:22:34,697 [myid:] - INFO  [main:ZooKeeperServer@854] - maxSessionTimeout set to -1
+2020-03-03 11:22:34,706 [myid:] - INFO  [main:ServerCnxnFactory@117] - Using org.apache.zookeeper.server.NIOServerCnxnFactory as server connection factory
+2020-03-03 11:22:34,717 [myid:] - INFO  [main:NIOServerCnxnFactory@89] - binding to port 0.0.0.0/0.0.0.0:2181
+2020-03-03 22:33:33,980 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxnFactory@222] - Accepted socket connection from /127.0.0.1:61887
+2020-03-03 22:33:34,054 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:ZooKeeperServer@949] - Client attempting to establish new session at /127.0.0.1:61887
+2020-03-03 22:33:34,063 [myid:] - INFO  [SyncThread:0:FileTxnLog@216] - Creating new log file: log.1
+2020-03-03 22:33:34,096 [myid:] - INFO  [SyncThread:0:ZooKeeperServer@694] - Established session 0x10007ac08180000 with negotiated timeout 30000 for client /127.0.0.1:61887
+2020-03-03 23:41:03,643 [myid:] - WARN  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxn@376] - Unable to read additional data from client sessionid 0x10007ac08180000, likely client has closed socket
+2020-03-03 23:41:03,657 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxn@1056] - Closed socket connection for client /127.0.0.1:61887 which had sessionid 0x10007ac08180000
+2020-03-03 23:41:05,579 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxnFactory@222] - Accepted socket connection from /127.0.0.1:62018
+2020-03-03 23:41:05,618 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:ZooKeeperServer@942] - Client attempting to renew session 0x10007ac08180000 at /127.0.0.1:62018
+2020-03-03 23:41:05,620 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:ZooKeeperServer@694] - Established session 0x10007ac08180000 with negotiated timeout 30000 for client /127.0.0.1:62018
+2020-03-04 07:45:08,411 [myid:] - WARN  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxn@376] - Unable to read additional data from client sessionid 0x10007ac08180000, likely client has closed socket
+2020-03-04 07:45:08,428 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxn@1056] - Closed socket connection for client /127.0.0.1:62018 which had sessionid 0x10007ac08180000
+2020-03-04 07:45:10,127 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxnFactory@222] - Accepted socket connection from /127.0.0.1:62021
+2020-03-04 07:45:10,129 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:ZooKeeperServer@942] - Client attempting to renew session 0x10007ac08180000 at /127.0.0.1:62021
+2020-03-04 07:45:10,131 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:ZooKeeperServer@694] - Established session 0x10007ac08180000 with negotiated timeout 30000 for client /127.0.0.1:62021
+2020-03-04 10:04:14,855 [myid:] - WARN  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxn@376] - Unable to read additional data from client sessionid 0x10007ac08180000, likely client has closed socket
+2020-03-04 10:04:14,873 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxn@1056] - Closed socket connection for client /127.0.0.1:62021 which had sessionid 0x10007ac08180000
+2020-03-04 10:04:16,224 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxnFactory@222] - Accepted socket connection from /127.0.0.1:62034
+2020-03-04 10:04:16,225 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:ZooKeeperServer@942] - Client attempting to renew session 0x10007ac08180000 at /127.0.0.1:62034
+2020-03-04 10:04:16,227 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:ZooKeeperServer@694] - Established session 0x10007ac08180000 with negotiated timeout 30000 for client /127.0.0.1:62034
